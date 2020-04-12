@@ -4,4 +4,4 @@ A bare minimum well known fun app '4 pics 1 word'.
 Youtube link: https://youtu.be/4vpWEG7NIdo
 
 # **Video**
-![](aasets/4pics1word.gif)
+![](assets/4pics1word.gif)
